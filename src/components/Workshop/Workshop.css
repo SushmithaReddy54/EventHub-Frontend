@@ -1,0 +1,13 @@
+.workshop_buttons{
+    text-align: right;
+}
+.workshop_title_page{
+    text-align: center;
+    font-size: x-large !important;
+    font-weight: bold !important;
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+}
+.workshop_page {
+    padding: 5px !important;
+}

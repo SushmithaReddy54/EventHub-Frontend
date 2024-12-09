@@ -1,0 +1,50 @@
+#home {
+    max-width: 100%;
+    padding: 0;
+}
+
+#home_navbar {
+    display: flex !important;
+    justify-content: space-between;
+    background-color: #4baac2;
+    place-self: center;
+    color: white;
+}
+
+#home_logo {
+    max-width: 4vw;
+    max-height: 4vw;
+    align-self: center;
+    text-align: right;
+}
+
+.home_app_name:hover {
+    color: floralwhite;
+    outline: thick;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+#home_logout {
+    font-size: x-large;
+    color: whitesmoke;
+    text-align: end;
+}
+
+#home_user_name {
+    color: whitesmoke;
+    align-self: center;
+    font-size: 2vw;
+}
+
+.button_navbar {
+    padding: 0% !important;
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+    margin-left: 10px !important;
+    margin-right: 10px !important;
+}
+.in_button_navbar {
+    padding: 0% !important;
+    width: 100% !important;
+    height: 100% !important;
+}
