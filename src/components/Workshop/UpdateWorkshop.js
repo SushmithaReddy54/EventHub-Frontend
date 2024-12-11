@@ -228,7 +228,7 @@ const UpdateWorkshop = () => {
                     fullWidth
                     variant="contained"
                     component="label"
-                    disabled
+                   // disabled
                     sx={{ display: "block", textAlign: "center", py: 2 }}
                   >
                     Upload Image
